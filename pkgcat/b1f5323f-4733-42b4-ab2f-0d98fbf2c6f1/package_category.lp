@@ -1,0 +1,10 @@
+(librepcb_package_category b1f5323f-4733-42b4-ab2f-0d98fbf2c6f1
+ (name "Ai-Thinker")
+ (description "")
+ (keywords "")
+ (author "Danilo Bargen")
+ (version "0.1")
+ (created 2019-12-27T22:05:39Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
