@@ -1,6 +1,6 @@
 (librepcb_package 7cb374de-be16-4feb-bbe3-733cfe24944b
- (name "ESP-12S")
- (description "An ESP8266 module, ESP-12S variant by AI-Thinker.")
+ (name "ESP-12")
+ (description "An ESP8266 module, ESP-12 package by AI-Thinker.\n\nCurrently there are 12E, 12F, 12L and 12S variations using the same package")
  (keywords "esp8266,esp12,esp-12,esp-12s,espressiv,xtensa,tensilica,ai-thinker")
  (author "Danilo Bargen")
  (version "0.1")
