@@ -7,5 +7,5 @@
  (created 2019-12-27T21:57:22Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/AiThinker.lplib")
- (manufacturer "")
+ (manufacturer "Ai-Thinker")
 )
