@@ -1,5 +1,5 @@
 (librepcb_device 5594db74-ad1d-4fca-a5a9-faca61c43c09
- (name "ESP-12S")
+ (name "AI-Thinker ESP-12S")
  (description "An ESP8266 module, ESP-12S variant by AI-Thinker.")
  (keywords "esp8266,esp12,esp-12,esp-12s,espressiv,xtensa,tensilica,ai-thinker")
  (author "Danilo Bargen")
