@@ -3,7 +3,7 @@
  (description "An ESP8266 module, ESP-12S variant by AI-Thinker.")
  (keywords "esp8266,esp12,esp-12,esp-12s,espressiv,xtensa,tensilica,ai-thinker")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2019-12-27T22:07:00Z)
  (deprecated false)
  (generated_by "")
