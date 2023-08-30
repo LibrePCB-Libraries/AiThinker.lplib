@@ -1,9 +1,9 @@
 (librepcb_device 5594db74-ad1d-4fca-a5a9-faca61c43c09
- (name "ESP-12S")
+ (name "AI-Thinker ESP-12S")
  (description "An ESP8266 module, ESP-12S variant by AI-Thinker.")
  (keywords "esp8266,esp12,esp-12,esp-12s,espressiv,xtensa,tensilica,ai-thinker")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2019-12-27T22:28:58Z)
  (deprecated false)
  (generated_by "")
@@ -26,4 +26,6 @@
  (pad efe15053-ff78-412f-96d4-a75c053b3892 (signal 38ee7ae7-c305-4998-9e32-2f42132b43aa))
  (pad fbc374d6-c675-4eab-a276-ea707dfd3ee4 (signal 0f540faf-4883-484a-a9ef-c992fd5ecd39))
  (pad fc8c5e87-133d-4ad4-b2aa-cce0aa03a465 (signal 64297cf3-334a-442f-a537-9c92e1fdaea2))
+ (part "ESP-12S" (manufacturer "Ai-Thinker")
+ )
 )
