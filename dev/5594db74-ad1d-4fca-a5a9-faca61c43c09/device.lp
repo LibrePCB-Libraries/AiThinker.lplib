@@ -26,4 +26,6 @@
  (pad efe15053-ff78-412f-96d4-a75c053b3892 (signal 38ee7ae7-c305-4998-9e32-2f42132b43aa))
  (pad fbc374d6-c675-4eab-a276-ea707dfd3ee4 (signal 0f540faf-4883-484a-a9ef-c992fd5ecd39))
  (pad fc8c5e87-133d-4ad4-b2aa-cce0aa03a465 (signal 64297cf3-334a-442f-a537-9c92e1fdaea2))
+ (part "ESP-12S" (manufacturer "Ai-Thinker")
+ )
 )
